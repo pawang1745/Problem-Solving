@@ -9,4 +9,5 @@
 [(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/4.Rotate%20Array.py)
 5. Given an array of integers arr[] representing a permutation, implement the next permutation that rearranges the numbers into the lexicographically next greater permutation. If no such permutation exists, rearrange the numbers into the lowest possible order (i.e., sorted in ascending order). [(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/5.Next%20Permutation.py)
 6. You are given an array of integer arr[] where each number represents a vote to a candidate. Return the candidates that have votes greater than one-third of the total votes, If there's not a majority vote, return an empty array. [(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/6.Majority%20Element%20II.py)
+7. The cost of stock on each day is given in an array price[]. Each day you may decide to either buy or sell the stock at price[i], you can even buy and sell the stock on the same day. Find the maximum profit that you can get.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/7.Stock%20Buy%20and%20Sell.py)
 
