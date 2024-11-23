@@ -11,4 +11,9 @@
 6. You are given an array of integer arr[] where each number represents a vote to a candidate. Return the candidates that have votes greater than one-third of the total votes, If there's not a majority vote, return an empty array. [(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/6.Majority%20Element%20II.py)
 7. The cost of stock on each day is given in an array price[]. Each day you may decide to either buy or sell the stock at price[i], you can even buy and sell the stock on the same day. Find the maximum profit that you can get.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/7.Stock%20Buy%20and%20Sell.py)
 8. Given an array prices[] of length n, representing the prices of the stocks on different days. The task is to find the maximum profit possible by buying and selling the stocks on different days when at most one transaction is allowed. Here one transaction means 1 buy + 1 Sell. If it is not possible to make a profit then return 0.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/8.Stock%20Buy%20and%20Sell%20%E2%80%93%20Max%20one%20Transaction%20Allowed.py)
+9. Given an array arr[] denoting heights of N towers and a positive integer K.
+For each tower, you must perform exactly one of the following operations exactly once.
+Increase the height of the tower by K
+Decrease the height of the tower by K
+Find out the minimum possible difference between the height of the shortest and tallest towers after you have modified each tower.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/9.Minimize%20the%20Heights%20II.py)
 
