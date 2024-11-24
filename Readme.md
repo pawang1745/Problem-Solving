@@ -16,4 +16,5 @@ For each tower, you must perform exactly one of the following operations exactly
 Increase the height of the tower by K
 Decrease the height of the tower by K
 Find out the minimum possible difference between the height of the shortest and tallest towers after you have modified each tower.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/9.Minimize%20the%20Heights%20II.py)
+10. Given an integer array arr[]. You need to find the maximum sum of a subarray.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/10.Kadane's%20Algorithm.py)
 
