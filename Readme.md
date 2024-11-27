@@ -19,4 +19,5 @@ Find out the minimum possible difference between the height of the shortest and 
 10. Given an integer array arr[]. You need to find the maximum sum of a subarray.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/10.Kadane's%20Algorithm.py)
 11. Given an array arr[] that contains positive and negative integers (may contain 0 as well). Find the maximum product that we can get in a subarray of arr.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/11.Maximum%20Product%20Subarray.py)
 12. Given an array of integers arr[] in a circular fashion. Find the maximum subarray sum that we can get if we assume the array to be circular.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/12.Max%20Circular%20Subarray%20Sum.py)
+13. You are given an integer array arr[]. Your task is to find the smallest positive number missing from the array.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/13.Smallest%20Positive%20Missing%20Number.py)
 
