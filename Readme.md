@@ -21,3 +21,11 @@ Find out the minimum possible difference between the height of the shortest and 
 12. Given an array of integers arr[] in a circular fashion. Find the maximum subarray sum that we can get if we assume the array to be circular.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/12.Max%20Circular%20Subarray%20Sum.py)
 13. You are given an integer array arr[]. Your task is to find the smallest positive number missing from the array.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/13.Smallest%20Positive%20Missing%20Number.py)
 
+## Strings
+   -------
+14.Given a string s, the objective is to convert it into integer format without utilizing any built-in functions. Refer the below steps to know about atoi() function.
+Cases for atoi() conversion:
+Skip any leading whitespaces.
+Check for a sign (‘+’ or ‘-‘), default to positive if no sign is present.
+Read the integer by ignoring leading zeros until a non-digit character is encountered or end of the string is reached. If no digits are present, return 0.
+If the integer is greater than 231 – 1, then return 231 – 1 and if the integer is smaller than -231, then return -231.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/14.Implement%20Atoi.py)
