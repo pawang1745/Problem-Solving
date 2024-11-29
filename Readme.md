@@ -23,9 +23,11 @@ Find out the minimum possible difference between the height of the shortest and 
 
 ## Strings
    -------
-14.Given a string s, the objective is to convert it into integer format without utilizing any built-in functions. Refer the below steps to know about atoi() function.
-Cases for atoi() conversion:
-Skip any leading whitespaces.
-Check for a sign (‘+’ or ‘-‘), default to positive if no sign is present.
-Read the integer by ignoring leading zeros until a non-digit character is encountered or end of the string is reached. If no digits are present, return 0.
-If the integer is greater than 231 – 1, then return 231 – 1 and if the integer is smaller than -231, then return -231.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/14.Implement%20Atoi.py)
+14. Given a string s, the objective is to convert it into integer format without utilizing any built-in functions. Refer the below steps to know about atoi() function.
+    Cases for atoi() conversion:
+    Skip any leading whitespaces.
+    Check for a sign (‘+’ or ‘-‘), default to positive if no sign is present.
+    Read the integer by ignoring leading zeros until a non-digit character is encountered or end of the string is reached. If no digits are present, return 0.
+    If the integer is greater than 231 – 1, then return 231 – 1 and if the integer is smaller than -231, then return -231.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/14.Implement%20Atoi.py)
+15. Given two binary strings s1 and s2 consisting of only 0s and 1s. Find the resultant string after adding the two Binary Strings.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/15.Add%20Binary%20Strings.py)
+
