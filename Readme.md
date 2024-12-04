@@ -34,4 +34,5 @@ Find out the minimum possible difference between the height of the shortest and 
 17. Given a string s consisting of lowercase Latin Letters. Return the first non-repeating character in s. If there is no non-repeating character, return '$'.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/17.Non%20Repeating%20Character.py)
 18. Given two strings, one is a text string txt and the other is a pattern string pat. The task is to print the indexes of all the occurrences of the pattern string in the text string. Use 0-based indexing while returning the indices. [(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/18.Search%20Pattern%20(KMP-Algorithm).py)
 19. Given a string s, the task is to find the minimum characters to be added at the front to make the string palindrome.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/19.Min%20Chars%20to%20Add%20for%20Palindrome.py)
+20. You are given two strings of equal lengths, s1 and s2. The task is to check if s2 is a rotated version of the string s1.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/20.Strings%20Rotations%20of%20Each%20Other.py)
 
