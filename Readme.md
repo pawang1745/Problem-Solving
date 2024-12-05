@@ -36,3 +36,6 @@ Find out the minimum possible difference between the height of the shortest and 
 19. Given a string s, the task is to find the minimum characters to be added at the front to make the string palindrome.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/19.Min%20Chars%20to%20Add%20for%20Palindrome.py)
 20. You are given two strings of equal lengths, s1 and s2. The task is to check if s2 is a rotated version of the string s1.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/20.Strings%20Rotations%20of%20Each%20Other.py)
 
+## Sorting
+   -------
+21. Given an array arr[] containing only 0s, 1s, and 2s. Sort the array in ascending order.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/21.Sort%200s%2C%201s%20and%202s.py)
