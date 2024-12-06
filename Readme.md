@@ -39,3 +39,5 @@ Find out the minimum possible difference between the height of the shortest and 
 ## Sorting
    -------
 21. Given an array arr[] containing only 0s, 1s, and 2s. Sort the array in ascending order.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/21.Sort%200s%2C%201s%20and%202s.py)
+22. Given an integer array citations[], where citations[i] is the number of citations a researcher received for the ith paper. The task is to find the H-index.
+H-Index is the largest value such that the researcher has at least H papers that have been cited at least H times.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/22.Find%20H-Index.py)
