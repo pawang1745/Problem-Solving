@@ -47,3 +47,7 @@ H-Index is the largest value such that the researcher has at least H papers that
  Help Geek to insert newInterval into intervals such that intervals is still sorted in ascending order by starti and intervals still does not have any overlapping intervals (merge overlapping intervals if necessary).[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/25.Insert%20Interval.py)
 26. Given a 2D array intervals[][] of representing intervals where intervals [i] = [starti, endi ]. Return the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/26.Non-overlapping%20Intervals.py)
 27. Given two sorted arrays a[] and b[] of size n and m respectively, the task is to merge them in sorted order without using any extra space. Modify a[] so that it contains the first n elements and modify b[] so that it contains the last m elements. [(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/27.Merge%20Without%20Extra%20Space.py)
+
+## Searching
+   ---------
+28. Given a sorted array, arr[] and a number target, you need to find the number of occurrences of target in arr[]. [(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/28.Number%20of%20occurrence.py)
