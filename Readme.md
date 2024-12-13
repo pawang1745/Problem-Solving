@@ -51,3 +51,4 @@ H-Index is the largest value such that the researcher has at least H papers that
 ## Searching
    ---------
 28. Given a sorted array, arr[] and a number target, you need to find the number of occurrences of target in arr[]. [(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/28.Number%20of%20occurrence.py)
+29. A sorted array of distinct elements arr[] is rotated at some unknown point, the task is to find the minimum element in it. [(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/29.Sorted%20and%20Rotated%20Minimum.py)
