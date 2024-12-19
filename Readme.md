@@ -61,3 +61,4 @@ H-Index is the largest value such that the researcher has at least H papers that
 - Each student is assigned a contiguous sequence of books.
 - No book is assigned to more than one student.
 The objective is to minimize the maximum number of pages assigned to any student. In other words, out of all possible allocations, find the arrangement where the student who receives the most pages still has the smallest possible maximum.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/34.Allocate%20Minimum%20Pages.py)
+35. Given a sorted array of distinct positive integers arr[], we need to find the kth positive number that is missing from arr[].  [(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/35.Kth%20Missing%20Positive%20Number%20in%20a%20Sorted%20Array.py)
