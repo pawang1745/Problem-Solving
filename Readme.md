@@ -67,3 +67,4 @@ The objective is to minimize the maximum number of pages assigned to any student
    ------
 36. You are given a rectangular matrix mat[][] of size n x m, and your task is to return an array while traversing the matrix in spiral form.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/36.Spirally%20traversing%20a%20matrix.py)
 37. Given a square matrix mat[][] of size n x n. The task is to rotate it by 90 degrees in an anti-clockwise direction without using any extra space. [(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/37.Rotate%20by%2090%20degree.py)
+38. Given a 2D integer matrix mat[][] of size n x m, where every row and column is sorted in increasing order and a number x, the task is to find whether element x is present in the matrix.[(Solution)](https://github.com/pawang1745/Problem-Solving/blob/main/38.Search%20in%20a%20Row-Column%20sorted%20matrix.py)
